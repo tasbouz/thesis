@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Thesis Project.aux
+The style file: unsrt.bst
+Database file #1: Citations.bib
+Warning--empty publisher in carroll2004spacetime
+Warning--empty journal in kodama2011lecture
+Warning--empty journal in demystified2009demystified
+You've used 42 entries,
+            1791 wiz_defined-function locations,
+            693 strings with 8927 characters,
+and the built_in function-call counts, 8177 in all, are:
+= -- 733
+> -- 292
+< -- 3
++ -- 119
+- -- 77
+* -- 511
+:= -- 1336
+add.period$ -- 127
+call.type$ -- 42
+change.case$ -- 37
+chr.to.int$ -- 0
+cite$ -- 45
+duplicate$ -- 391
+empty$ -- 859
+format.name$ -- 77
+if$ -- 1804
+int.to.chr$ -- 0
+int.to.str$ -- 42
+missing$ -- 46
+newline$ -- 212
+num.names$ -- 42
+pop$ -- 108
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 150
+stack$ -- 0
+substring$ -- 486
+swap$ -- 55
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 84
+width$ -- 44
+write$ -- 448
+(There were 3 warnings)
